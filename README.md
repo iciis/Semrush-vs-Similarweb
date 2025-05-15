@@ -1,4 +1,4 @@
-# Semrush-vs-Similarweb
+# semrush-vs-similarweb
 
 **Want to win online in 2025? It’s not just about great content anymore—it’s about smart data moves.** With over **70% of marketers** saying they rely on competitive research and web traffic insights to shape campaigns, choosing the right tool is no longer optional.
 
