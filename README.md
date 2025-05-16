@@ -8,8 +8,9 @@ Here we will break down—**features, pricing, ease of use, real-world value**, 
 
 ## **Product Overview**
 
-![DigiRepo_1747306194-1747306195](https://github.com/user-attachments/assets/ec6c3d67-d756-44c8-af05-25f5e871b5e1)
-
+<a href="https://afftrend.com/semrush-Vs-similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1JYUMHZ-ji5S8VB1DD_I6SamZ3IaIOlFl"  alt="Similaweb Overview">
+</a>
 
 | **Aspect** | **Semrush** | **Similarweb** |
 | --- | --- | --- |
