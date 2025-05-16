@@ -83,6 +83,10 @@ It includes rank tracking capabilities that monitor the search engine positions 
 
 Semrush and Similarweb are both rockstars—but in different ways. **Need help with SEO, content, or PPC? Go with Semrush.** Want deep traffic data or market trends? **Similarweb’s your go-to.** Just pick what fits your hustle best!
 
+<a href="https://afftrend.com/semrush-vs-similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
+
 ## **Pricing of Products**
 
 | **Plan** | **Platform** | **Monthly Price** | **Annual Price** | **Users** | **Projects / Keywords / Features** |
@@ -187,7 +191,6 @@ Bookmark your dashboards and automate your reports to save time. Semrush is powe
 - View the **bounce rate** (percentage of users who leave after one page).
 - Understand **pages per visit**, which shows engagement levels.
 
-
 #### Step 4: Discover Global Rankings
 
 - See the **global rank** of the domain.
@@ -205,6 +208,10 @@ Bookmark your dashboards and automate your reports to save time. Semrush is powe
     - **Display ads**
 
 Use Similarweb as your digital crystal ball—it’s ideal for discovering new markets, spying (ethically) on competitors, and keeping your strategy one step ahead.
+
+<a href="https://afftrend.com/semrush-vs-similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
+</a>
 
 ## **Use Case**
 
