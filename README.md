@@ -251,6 +251,10 @@ Use Similarweb as your digital crystal ball—it’s ideal for discovering new m
 
 Semrush not only offers fast and responsive support but also stands out by providing a wide range of learning resources through its Semrush Academy. Whether you're a solo entrepreneur or part of a marketing team, the Academy gives you tools to level up your skills in SEO, content, PPC, and more.
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1x-Y00NbQ6O7KUzsbCJoAgu_jQ7BLo06h"  alt="SEMrush Customer Support">
+</a>
+
 On the flip side, Similarweb caters more to enterprise clients by offering personalized attention through dedicated account managers. This means larger organizations can access tailored support, onboarding assistance, and data walkthroughs, making it an ideal solution for big teams that require in-depth analytics and strategic guidance. 
 
 ## **Why Semrush Stands Out**
