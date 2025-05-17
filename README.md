@@ -29,25 +29,49 @@ Semrush focuses on digital marketing optimization including keyword tracking, ba
 
 #### **1. Keyword Magic Tool**
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=16BxvzLkP8ZMrwNSNRzum1aeu8wlD3pgr"  alt="SEMrush Keyword Magic Tool">
+</a>
+
 Semrush’s Keyword Magic Tool gives access to over 26 billion keywords, helping users discover profitable SEO and PPC opportunities. It uses AI-powered metrics to deliver domain-specific keyword insights, making campaign building more strategic and data-driven for increased visibility and ranking success.
 
 #### **2. Site Audit**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1ZYdwYykQnSOvjgWq-NU9QFAQXdYxkF2T"  alt="SEMrush Site Audit">
+</a>
 
 The Site Audit feature performs in-depth checks on your website's health. It identifies crawl issues, on-page SEO errors, and technical flaws. With actionable suggestions, it helps enhance website performance and ensure your pages meet search engine optimization standards efficiently and consistently.
 
 #### **3. Organic Traffic Insights**
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1Eo_mbEsslmKykmIvnjh-mJCzCwd7VACw"  alt="SEMrush Organic Research Tool">
+</a>
+
 This tool reveals hidden keywords by integrating Google Analytics data. It tracks key performance indicators like bounce rate, sessions, and conversions, offering a clearer picture of user behavior and content performance to better guide SEO strategies and improve engagement and reach.
 
 #### **4. Backlink Audit Tool**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1vE3LYpzGmjpcyWT9cuvwM1hxvOBnQD16"  alt="SEMrush Backlink Audit Tool">
+</a>
 
 Semrush’s Backlink Audit Tool analyzes your backlink profile to detect harmful or toxic links. By evaluating backlink quality and identifying risky domains, it protects your SEO reputation and ensures your site stays in good standing with search engine algorithms.
 
 #### **5. Position Tracking**
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1-nxiD-c5pA18rmTZwjVPYSPQQukQCmKF"  alt="SEMrush Position Tracking">
+</a>
+
 This feature tracks daily keyword rankings across multiple devices and locations, even down to ZIP code level. It allows users to compare performance with competitors, monitor visibility changes, and adapt strategies based on real-time search engine position fluctuations.
 
 #### **6. On Page SEO Checker**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1fhj_6ZZ5iBGPJt2YS6Ezh4uzDHBBZ2cG"  alt="SEMrush On Page SEO Checker">
+</a>
 
 The On Page SEO Checker analyzes competitor data and industry trends to generate personalized SEO improvement ideas. It prioritizes recommendations across content, technical SEO, and backlinks, helping pages rank higher by aligning with current search engine optimization best practices.
 
