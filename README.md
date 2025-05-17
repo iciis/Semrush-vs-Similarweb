@@ -97,6 +97,10 @@ Semrush and Similarweb are both rockstars—but in different ways. **Need help w
 
 **Semrush** offers a range of plans tailored for different needs:
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1LiNRIdDcjZOP0omicHZyGjoUQcgWM1mL"  alt="SEMrush Pricing">
+</a>
+
 - **Pro Plan**: Ideal for freelancers and startups, providing essential tools for SEO, PPC, and content marketing.
 - **Guru Plan**: Suited for growing marketing agencies, adding features like historical data and content marketing toolkit.
 - **Business Plan**: Designed for large businesses and agencies, offering extended limits and API access.
