@@ -177,6 +177,10 @@ Semrush and Similarweb are both rockstars—but in different ways. **Need help w
 
 #### Step 1: Enter a Domain or Keyword
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1aiwPYjw9eapJd0UzsUz0fzOt2FkakcqN"  alt="Semrush Dashboard">
+</a>
+
 - Open **Semrush**.
 - Want to spy on a competitor or analyze your own site?
 - Enter a **domain name** or **keyword** in the search bar.
@@ -188,6 +192,10 @@ Semrush and Similarweb are both rockstars—but in different ways. **Need help w
     - Competitor comparisons
     
 #### Step 2: Run a Site Audit
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1ZYdwYykQnSOvjgWq-NU9QFAQXdYxkF2T"  alt="Semrush Site Audit Tool">
+</a>
 
 - Go to the **Site Audit** tool.
 - Think of it as an X-ray for your website's SEO health.
@@ -320,6 +328,10 @@ Semrush not only offers fast and responsive support but also stands out by provi
 </a>
 
 On the flip side, Similarweb caters more to enterprise clients by offering personalized attention through dedicated account managers. This means larger organizations can access tailored support, onboarding assistance, and data walkthroughs, making it an ideal solution for big teams that require in-depth analytics and strategic guidance. 
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1PuqZMCUntYeT_H_mqeauavfIDwD83_Su/"  alt="Similarweb Contact Us">
+</a>
 
 ## **Why Semrush Stands Out**
 
