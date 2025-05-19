@@ -8,7 +8,7 @@ Here we will break down—**features, pricing, ease of use, real-world value**, 
 
 ## **Product Overview**
 
-**Semrush **is an all-in-one digital marketing suite focused on SEO, content marketing, PPC, and social media management. Known for its powerful keyword research tools, site audit capabilities, backlink analysis, and rank tracking features, Semrush is essential for optimizing web visibility and organic performance. It enables marketers to uncover profitable keywords, analyze competitors’ content strategies, monitor search engine rankings, and enhance digital campaigns across platforms. Trusted by SEO professionals, content creators, and agencies, Semrush helps users drive traffic and improve online marketing effectiveness.
+**Semrush** is an all-in-one digital marketing suite focused on SEO, content marketing, PPC, and social media management. Known for its powerful keyword research tools, site audit capabilities, backlink analysis, and rank tracking features, Semrush is essential for optimizing web visibility and organic performance. It enables marketers to uncover profitable keywords, analyze competitors’ content strategies, monitor search engine rankings, and enhance digital campaigns across platforms. Trusted by SEO professionals, content creators, and agencies, Semrush helps users drive traffic and improve online marketing effectiveness.
 
 <a href="https://afftrend.com/semrush">
   <img src="https://drive.google.com/uc?export=view&id=1RHo9f5IpqZc_zQmIgl77edjuMxCU23hN"  alt="Semrush Homepage">
@@ -97,9 +97,17 @@ Want to know where your traffic’s really coming from? Similarweb breaks it dow
 
 #### **2. Keyword Research Tools**
 
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1z4iJydmetYayfO3sIWq7UYwpFxZCyxqa"  alt="Similarweb Keyword Insights">
+</a>
+
 The platform offers robust keyword analysis for both organic and paid search terms. Users can uncover top-performing keywords, analyze search volumes, and evaluate competition. This enables businesses to improve SEO and pay-per-click campaigns by targeting the most relevant and high-potential search terms.
 
 #### **3. Competitor Analysis**
+
+<a href="https://afftrend.com/similarweb ">
+  <img src="https://drive.google.com/uc?export=view&id=1wKdoc65hFxsLSx6qihJ2cjeWZdCb9BeE"  alt="Similarweb Competitor Analysis">
+</a>
 
 Similarweb enables in-depth competitor analysis by comparing traffic sources, user engagement, and keyword performance. Businesses can uncover their competitors’ digital strategies, monitor industry trends, and identify untapped opportunities, empowering them to develop informed tactics and stay ahead in the competitive landscape.
 
@@ -109,9 +117,15 @@ The platform offers a high-level site audit by analyzing website performance, st
 
 #### **5. Mobile Market Trends**
 
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1njPVWsInRkbMs7pgigDnxkbF9qUJZOrn"  alt="Similarweb Mobile Market Trends">
+</a>
+
 Similarweb tracks mobile market trends by analyzing app usage patterns, downloads, user retention, and top-ranking apps across categories. It helps businesses monitor competitor apps, understand market shifts, and identify rising trends in the mobile ecosystem to inform app development and marketing strategies.
 
 #### **6. Rank Tracker**
+
+
 
 It includes rank tracking capabilities that monitor the search engine positions of websites and keywords over time. This feature helps businesses evaluate SEO performance, identify ranking changes, track competitors’ keyword positions, and adjust content strategies to improve visibility and drive organic traffic.
 
@@ -145,7 +159,9 @@ Semrush and Similarweb are both rockstars—but in different ways. **Need help w
 
 **Similarweb** provides plans focusing on market intelligence:
 
-
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=15EGAv8OW868fQ3jXCB3i44L1XxwaUaSn"  alt="Similarweb Pricing & Plans">
+</a>
 
 - **Starter Plan**: Suitable for entrepreneurs and digital marketing professionals building a marketing strategy.
 - **Team Plan**: Geared towards small and medium companies, providing comprehensive tools for digital marketing professionals.
@@ -218,6 +234,10 @@ Bookmark your dashboards and automate your reports to save time. Semrush is powe
 ### **Similarweb Usage Guide**
 
 #### Step 1: Enter a Website or App
+
+ <a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1P3wuF2S4e0Z1Ekb4zIct4nCy456-e9qR"  alt="Similarweb Dashboard">
+</a>
 
 - Go to a platform like **Similarweb**.
 - Type in any domain name or an app name in the search bar.
