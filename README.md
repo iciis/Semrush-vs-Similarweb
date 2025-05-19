@@ -33,6 +33,10 @@ Here we will break down—**features, pricing, ease of use, real-world value**, 
 | **Ideal For** | **Execution-focused marketing teams** | **Insight-driven strategic teams** |
 | **Free Version** | Yes – with limited features | Yes – limited public data access |
 
+<a href="https://afftrend.com/semrush"> 
+<img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
+</a>
+
 ## **Product Features**
 
 ### **Semrush Key Features**
@@ -84,10 +88,6 @@ This feature tracks daily keyword rankings across multiple devices and locations
 </a>
 
 The On Page SEO Checker analyzes competitor data and industry trends to generate personalized SEO improvement ideas. It prioritizes recommendations across content, technical SEO, and backlinks, helping pages rank higher by aligning with current search engine optimization best practices.
-
-<a href="https://afftrend.com/semrush"> 
-<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
-</a>
 
 ### **Similarweb Key Features**
 
