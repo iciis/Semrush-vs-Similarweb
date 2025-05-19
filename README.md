@@ -233,10 +233,6 @@ Semrush and Similarweb are both rockstars—but in different ways. **Need help w
 
 Bookmark your dashboards and automate your reports to save time. Semrush is powerful, but using it consistently is where the magic happens.
 
-<a href="https://afftrend.com/semrush"> 
-<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
-</a>
-
 ### **Similarweb Usage Guide**
 
 #### Step 1: Enter a Website or App
