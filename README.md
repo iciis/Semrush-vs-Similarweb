@@ -125,8 +125,6 @@ Similarweb tracks mobile market trends by analyzing app usage patterns, download
 
 #### **6. Rank Tracker**
 
-
-
 It includes rank tracking capabilities that monitor the search engine positions of websites and keywords over time. This feature helps businesses evaluate SEO performance, identify ranking changes, track competitors’ keyword positions, and adjust content strategies to improve visibility and drive organic traffic.
 
 Semrush and Similarweb are both rockstars—but in different ways. **Need help with SEO, content, or PPC? Go with Semrush.** Want deep traffic data or market trends? **Similarweb’s your go-to.** Just pick what fits your hustle best!
@@ -194,7 +192,7 @@ Semrush and Similarweb are both rockstars—but in different ways. **Need help w
 #### Step 2: Run a Site Audit
 
 <a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=1ZYdwYykQnSOvjgWq-NU9QFAQXdYxkF2T"  alt="Semrush Site Audit Tool">
+  <img src="https://drive.google.com/uc?export=view&id=15-GYWxpoIHrL56sSj9hLbFqn2tzTgtX9"  alt="Semrush Site Audit">
 </a>
 
 - Go to the **Site Audit** tool.
